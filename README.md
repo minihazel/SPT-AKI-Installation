@@ -10,7 +10,14 @@ If you would rather watch a video covering the same procedure as Section 2, plea
 
 Escape From Tarkov: [Buy here](https://www.escapefromtarkov.com/preorder-page)
 
-7-Zip: [Download here](https://www.7-zip.org/download.html) (Download  `.exe` `64-bit` `Windows x64`)
+7-Zip: [Download here](https://www.7-zip.org/download.html)
+
+  (Download  `.exe` `64-bit` `Windows x64`)
+
+  [.NET 4.7.2 Developer Pack Installer](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-developer-pack-offline-installer)
+
+  [Runtime Desktop 6.0.4 Windows x64 Installer](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.4-windows-x64-installer)
+  
 
 
 ## Notes
@@ -37,7 +44,7 @@ This guide will show you installation of SPT-AKI `3.3.0` which is the latest sta
 
 Copying live Tarkov to a new folder
 
-- Open your Escape From Tarkov folder. Mine is here: G:\Battlestate Games\EFT
+- Open your Escape From Tarkov folder. Mine is here: `G:\Battlestate Games\EFT`
 
 - Select ALL files in the folder and COPY them
 
@@ -54,6 +61,8 @@ Copying live Tarkov to a new folder
 ## Section 2
 
 Downloading and installing SPT-AKI AND downgrading
+
+(If you'd rather not downgrade, head to [Section 3](https://github.com/minihazel/SPT-AKI-Installation/blob/main/README.md#section-3))
 
 - Open this link: https://hub.sp-tarkov.com/files/file/16-spt-aki/
 
