@@ -18,11 +18,19 @@ As of writing, the date is 2022-12-04 (December 4th 2022) and live Tarkov is on 
 
 This guide will show you installation of SPT-AKI `3.3.0` which is the latest stable release.
 
-**SECTION 1** - Copying LIVE Tarkov to a new folder
+[Installing SPT-AKI](https://github.com/minihazel/SPT-AKI-Installation/blob/main/README.md#installing-spt-aki) - The start
 
-**SECTION 2** - Downloading and installing SPT-AKI AND downgrading.
+[Prerequisites](https://github.com/minihazel/SPT-AKI-Installation/blob/main/README.md#prerequisites) - The prerequisites necessary to follow this page
 
-**SECTION 3** - Downloading and installing SPT-AKI WITHOUT downgrading.
+[Notes](https://github.com/minihazel/SPT-AKI-Installation/blob/main/README.md#Notes) - This page
+
+[Section 1](https://github.com/minihazel/SPT-AKI-Installation/blob/main/README.md#section-1) - Copying LIVE Tarkov to a new folder
+
+[Section 2](https://github.com/minihazel/SPT-AKI-Installation/blob/main/README.md#section-2) - Downloading and installing SPT-AKI AND downgrading.
+
+[Section 3](https://github.com/minihazel/SPT-AKI-Installation/blob/main/README.md#section-3) - Downloading and installing SPT-AKI WITHOUT downgrading.
+
+[Common Errors](https://github.com/minihazel/SPT-AKI-Installation/blob/main/README.md#common-errors) - Common errors and how to fix them
 
 
 ## Section 1
@@ -109,3 +117,6 @@ NOTE: This section can be used for any FUTURE versions unless the process change
 - Run `Aki.Server.exe`, then run `Aki.Launcher.exe`
 
 - Make your account, log in, then run the game with the launcher
+
+## Common Errors
+test
