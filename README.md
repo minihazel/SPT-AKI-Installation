@@ -41,9 +41,13 @@ Copying live Tarkov to a new folder
 
 - Select ALL files in the folder and COPY them
 
+  ![alt text](https://i.imgur.com/cyBG8tN.png)
+
 - Create a new folder somewhere else (preferably somewhere like C:\)
 
 - Name it `SPT 3.3.0`
+
+  ![alt text](https://i.imgur.com/xZbIYrJ.png)
 
 - PASTE your copied Tarkov files into your `SPT 3.3.0` folder
 
@@ -57,7 +61,9 @@ Downloading and installing SPT-AKI AND downgrading
 
 - Scroll down until you see Downloads
 
-- Click `RELEASE-SPT-VERSION.zip` (we're doing `RELEASE-SPT-3.3.0-20243`)
+- Click `RELEASE-SPT-3.3.0-20243.zip`
+
+  ![alt text](https://i.imgur.com/KooXbNc.png)
 
 - Open this link: https://hub.sp-tarkov.com/files/file/204-aki-patcher/#versions
 
@@ -65,7 +71,9 @@ Downloading and installing SPT-AKI AND downgrading
 
 - In this case, Version 12.12.32.20575 to 12.12.32.20243
 
-- Click the yellow Download link on the page (there are two, choose one)
+  ![alt text](https://i.imgur.com/C3Vw00b.png)
+
+- Click one of the two yellow download links
 
 - Click `GO TO LINK`
 
@@ -79,13 +87,19 @@ Downloading and installing SPT-AKI AND downgrading
 
 - Extract / drag and drop these two into your `SPT 3.3.0` folder -> Aki_Patches and patcher.exe
 
+  ![alt text](https://i.imgur.com/wJ9ewza.png)
+  
 - Launch / Run `patcher.exe` and let it work.
 
-- Drag and drop the `RELEASE-SPT-VERSION.zip` file you downloaded earlier into `SPT 3.3.0` folder
+  ![alt text](https://i.imgur.com/QXDhvOW.png)
 
-  It should be called `RELEASE-SPT-3.3.0-20243.zip`.
+- Drag and drop the `RELEASE-SPT-3.3.0-20243.zip` file you downloaded earlier into your `SPT 3.3.0` folder
+
+  ![alt text](https://i.imgur.com/8gvOOT4.png)
 
 - Right click the zip file -> `7-Zip` -> `Extract Here` and let it work
+
+  ![alt text](https://i.imgur.com/VEU7DiP.png)
 
 - Run `Aki.Server.exe`, then run `Aki.Launcher.exe`
 
@@ -104,19 +118,39 @@ NOTE: This section can be used for any FUTURE versions unless the process change
 
 - Scroll down until you see Downloads
 
-- Click `RELEASE-SPT-VERSION.zip` (we're doing `RELEASE-SPT-3.3.0-20243`)
+- Click `RELEASE-SPT-3.3.0-20243.zip` (we're doing `RELEASE-SPT-3.3.0-20243`)
+
+  ![alt text](https://i.imgur.com/KooXbNc.png)
 
 - Open the `SPT 3.3.0` folder you created in [Section 1](https://github.com/minihazel/SPT-AKI-Installation#section-1).
 
-- Drag and drop the `RELEASE-SPT-VERSION.zip` file you downloaded earlier into `SPT 3.3.0` folder
+- Drag and drop the `RELEASE-SPT-3.3.0-20243.zip` file you downloaded earlier into your `SPT 3.3.0` folder
 
-  It should be called `RELEASE-SPT-3.3.0-20243.zip`.
+  ![alt text](https://i.imgur.com/8gvOOT4.png)
 
 - Right click the zip file -> `7-Zip` -> `Extract Here` and let it work
+
+  ![alt text](https://i.imgur.com/VEU7DiP.png)
 
 - Run `Aki.Server.exe`, then run `Aki.Launcher.exe`
 
 - Make your account, log in, then run the game with the launcher
 
 ## Common Errors
-test
+There are some common errors you may run into. Whether you missed a step or have missing internal prerequisites.
+
+### Delta failed to decode ✅
+Solution:
+- The live Tarkov files you copied were outdated. Delete any folders of Tarkov present and re-install via the official launcher provided by Battlestate Games.
+
+### Detected faulty json ✅
+Solution:
+- A JSON file provided by SPT is faulty or has syntax errors. Download and use Visual Studio Code/Codium and open said JSON file with it, it will show you what needs to be fixed.
+
+### Patcher won't work ✅
+Solution:
+- You're likely missing .NET frameworks required for the application to work. Download the following two frameworks:
+
+  [.NET 4.7.2 Developer Pack Installer](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-developer-pack-offline-installer)
+
+  [Runtime Desktop 6.0.4 Windows x64 Installer](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.4-windows-x64-installer)
