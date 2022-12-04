@@ -1,7 +1,7 @@
 # Installing SPT-AKI
 This guide will provide you a step-by-step instruction manual on how to properly install SPT-AKI using latest version of Escape From Tarkov.
 
-If you would rather watch a video covering the same procedure as Section 2, please click this link:
+If you would rather watch a video covering the same procedure as [Section 2](https://github.com/minihazel/SPT-AKI-Installation/blob/main/README.md#section-2), please click this link:
 
   [SPT 20575 to 20243](https://streamable.com/n7ldlh)
 
