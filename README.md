@@ -17,6 +17,8 @@ Escape From Tarkov: [Buy here](https://www.escapefromtarkov.com/preorder-page)
   [.NET 4.7.2 Developer Pack Installer](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-developer-pack-offline-installer)
 
   [Runtime Desktop 6.0.4 Windows x64 Installer](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.4-windows-x64-installer)
+
+  [Runtime Desktop 8.0.3 Windows Installer](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.3-windows-x86-installer)
   
 
 
